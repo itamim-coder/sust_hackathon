@@ -1,0 +1,32 @@
+/* Header part */
+
+.header-container {
+    background-color: #afafaf;
+}
+
+.profile-pic {
+    width: 40px;
+    height: 40px;
+}
+
+.sub-menu {
+    background-color: #afafaf;
+}
+
+.mobile-menu {
+    background-color: #afafaf;
+}
+
+/* Sidenav part */
+
+.sidenav-container {
+    background-color: #afafaf;
+}
+
+.side-nav {
+    background-color: #afafaf;
+}
+
+.btn-nav {
+    background-color: #afafaf;
+}
